@@ -12,7 +12,7 @@
 ## [Navigation-Algorithms Repo](https://github.com/tcmilleriii/Navigation-Algorithms) ##
 I enjoy familiarizing myself with common algorithms in the localization space / navigation realm, so do please stop by this repo if that interests you.<br/>
 
-## Common Algorithms ##
+## [Common Algorithms](https://github.com/tcmilleriii/Common-Software-Algos) ##
 A more generalized set of algorithms that I consider "essential" in the software engineering world. These are to have, hold, cherish, and sometimes crack open to study.
 
 ## Dungeons and Dragons ##
