@@ -1,20 +1,20 @@
 <!-- The Professional Stuff -->
 
-## Professional Background ##
+# Professional Background #
 
 🚀 Navigation Engineer at Blue Origin<br/>
 🦾 Former robotics whiz at [Stryker Mako](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)<br/>
 
 <!-- The Semi Professional Stuff -->
 
-## Hobbyist Projects ##
+# Hobbyist Projects #
 
-# [Navigation-Algorithms Repo](https://github.com/tcmilleriii/Navigation-Algorithms) #
+## [Navigation-Algorithms Repo](https://github.com/tcmilleriii/Navigation-Algorithms) ##
 I enjoy familiarizing myself with common algorithms in the localization space / navigation realm, so do please stop by this repo if that interests you.<br/>
 
-# Dungeons and Dragons #
+## Dungeons and Dragons ##
 Laugh it up, I'm a Dungeon Master. But I have a lot of fun messing around in Blender using [Hero Forge Characters](https://www.heroforge.com/) for my players. What better place to store my silly DnD things than my github. 
 
 <!-- The Bits About Me -->
 
-## Thanks for stopping by!
+# Thanks for stopping by! #
