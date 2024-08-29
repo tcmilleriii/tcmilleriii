@@ -4,8 +4,8 @@
 
 I dabble.
 
-**Today**: 🚀 Navigation Engineer at [Blue Origin](https://www.blueorigin.com/)
-**Yesterday**: 🦾 Robotics whiz at [Stryker Mako](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)
+**Today**: 🚀 Navigation Engineer at [Blue Origin](https://www.blueorigin.com/)<br>
+**Yesterday**: 🦾 Robotics whiz at [Stryker Mako](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)<br>
 **Long Ago**: ⛑️ R&D at [Stryker Sustainability Solutions](https://www.stryker.com/us/en/sustainability.html) 
 
 
