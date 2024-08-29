@@ -2,7 +2,7 @@
 
 # Professional Background #
 
-🚀 Navigation Engineer at Blue Origin<br/>
+🚀 Navigation Engineer at [Blue Origin](https://www.blueorigin.com/)<br/>
 🦾 Former robotics whiz at [Stryker Mako](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)<br/>
 
 <!-- The Semi Professional Stuff -->
